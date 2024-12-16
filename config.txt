@@ -1,0 +1,6 @@
+user_id=
+token=
+channel_url=
+channel_id=
+messages_file=messages.txt
+delay_between_messages=
